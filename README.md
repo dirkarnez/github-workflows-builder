@@ -13,5 +13,5 @@ github-workflows-builder
     distribution: 'temurin'
     java-version: '11'
 ```
-- [Z3Prover/z3: The Z3 Theorem Prover](https://github.com/Z3Prover/z3)
+- [z3/.github/workflows at master · Z3Prover/z3](https://github.com/Z3Prover/z3/tree/master/.github/workflows)
   - a lot of scripts
